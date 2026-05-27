@@ -114,6 +114,24 @@ body {
     margin-bottom: 10px !important;
 }
 
+.documentacion {
+    font-size: 0.85em;
+    margin-top: 8px !important;
+}
+
+.documentacion a i {
+    margin-right: 4px;
+}
+
+.item-experiencia p {
+    margin: 0 0 10px 0;
+    font-size: 0.95em;
+}
+
+.item-experiencia p:last-child {
+    margin-bottom: 0;
+}
+
 .lista-habilidades {
     list-style-type: none;
     padding: 0;
